@@ -1,8 +1,7 @@
-import React from "react";
 import Container from "../shared/Container";
 import Title from "../shared/Title";
 import Paragraph from "../shared/Paragraph";
-import Info from "../shared/Info";
+import Info from "../cards/Info";
 
 function AboutUs() {
   return (

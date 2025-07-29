@@ -1,9 +1,8 @@
-import React from "react";
 import Container from "../shared/Container";
 import Title from "../shared/Title";
 import Paragraph from "../shared/Paragraph";
 import { services } from "../../utils/services-data";
-import Service from "../shared/Service";
+import Service from "../cards/Service";
 
 function Services() {
   return (

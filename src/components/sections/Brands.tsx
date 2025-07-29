@@ -1,4 +1,3 @@
-import React from "react";
 import Container from "../shared/Container";
 import Title from "../shared/Title";
 const logos = ["discord", "openai", "paypal", "slack", "spotify", "youtube"];
@@ -19,7 +18,7 @@ function Brands() {
               <img
                 width="100"
                 height="60"
-                src={`/src/assets/logos/${logo}.png`}
+                src={`./logos/${logo}.png`}
                 alt={`${logo}`}
                 className="h-7 sm:h-10 w-auto ease-linear duration-300 grayscale group-hover:!grayscale-0 group-hover:scale-105"
               />

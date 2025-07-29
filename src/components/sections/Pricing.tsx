@@ -1,4 +1,3 @@
-import React from "react";
 import Paragraph from "../shared/Paragraph";
 import Container from "../shared/Container";
 import Title from "../shared/Title";
